@@ -1,5 +1,6 @@
 # Bit-Sync
 
+### Full documentation [here](https://docs.google.com/document/d/1TKeq-kEQOR1TsG7wWaypIJgA0GZmNLL65sJjs1Dwkxc/edit?usp=sharing)
 ### Prerequisites:
 
 1. G++ compiler
